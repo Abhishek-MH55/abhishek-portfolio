@@ -126,12 +126,12 @@ export default function Portfolio() {
   };
 
   const SOCIAL = [
-    { label:"WhatsApp",  href:"https://wa.me/91XXXXXXXXXX",                  Icon:IconWhatsApp,  color:"#25D366" },
-    { label:"Instagram", href:"https://instagram.com/abhishekpmhatre",        Icon:IconInstagram, color:"#E1306C" },
-    { label:"GitHub",    href:"https://github.com/abhishekpmhatre",            Icon:IconGitHub,    color:T.text   },
+    { label:"WhatsApp",  href:"https://wa.me/919619458970",                  Icon:IconWhatsApp,  color:"#25D366" },
+    { label:"Instagram", href:"https://instagram.com/abhi._mhatre/",        Icon:IconInstagram, color:"#E1306C" },
+    { label:"GitHub",    href:"https://github.com/Abhishek-MH55",            Icon:IconGitHub,    color:T.text   },
     { label:"LinkedIn",  href:"https://linkedin.com/in/abhishekpmhatre",       Icon:IconLinkedIn,  color:"#0A66C2" },
-    { label:"X",         href:"https://x.com/abhishekpmhatre",                Icon:IconX,         color:T.text   },
-    { label:"Email",     href:"mailto:abhishek@example.com",                  Icon:IconEmail,     color:T.accent },
+    { label:"X",         href:"https://x.com/abhishekmhatre_",                Icon:IconX,         color:T.text   },
+    { label:"Email",     href:"mailto:abhishekmhatre55@gmail.com",                  Icon:IconEmail,     color:T.accent },
   ];
 
   const css = `

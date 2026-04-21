@@ -385,12 +385,12 @@ export default function Portfolio() {
         <div className="hbadge">Integration Specialist · IBM &amp; AWS Certified</div>
         <h1 className="hname">Abhishek<br /><em>Mhatre</em></h1>
         <p className="htitle">
-          <strong>Enterprise Integration Engineer</strong> with 8+ years at Tata Consultancy Services —
-          bridging systems through IBM middleware, webMethods, OpenAPI, and cloud architecture
+          <strong>Enterprise Integration Specialist</strong> with 8+ years at Tata Consultancy Services —
+          bridging systems through IBM webMethods along with different Integration technologies, and cloud architecture
           across manufacturing &amp; utility sectors.
         </p>
         <div className="hchips">
-          {["IBM Certified","AWS Solutions Architect","Azure","webMethods 10.x","DevOps","Kafka · Solace","Datadog","Docker","API Build and Management","Kuberneteses"].map(c=>(
+          {["IBM Certified","AWS Solutions Architect","Azure","webMethods 10.x","DevOps","Kafka · Solace","Datadog","Docker","API Design and Management","Kuberneteses"].map(c=>(
             <span key={c} className="chip">{c}</span>
           ))}
         </div>
@@ -431,8 +431,8 @@ export default function Portfolio() {
         <div className="slabel" data-reveal>About</div>
         <div className="agrid">
           <div className="abody" data-reveal data-d="1">
-            <p>I'm <strong>Abhishek Mhatre</strong>, an IBM &amp; AWS Certified Integration Engineer with nearly a decade of delivering enterprise middleware solutions at <strong>Tata Consultancy Services</strong>.</p>
-            <p>My expertise spans <strong>IBM middleware, webMethods, OpenAPI-first API design, B2B integrations, EAI, and SOA</strong> — serving manufacturing and utility clients across India and Europe. I work with event-driven platforms like <strong>Kafka and Solace</strong>, and monitor systems end-to-end with <strong>Datadog</strong>.</p>
+            <p>I'm <strong>Abhishek Mhatre</strong>, an IBM &amp; AWS Certified Integration Specialist with nearly a decade of delivering enterprise middleware solutions at <strong>Tata Consultancy Services</strong>.</p>
+            <p>My expertise spans <strong>IBM middleware, webMethods, DevOps, B2B integrations, EAI, SOA, API design and management</strong> — serving manufacturing and utility clients across India and Europe. I work with event-driven platforms like <strong>Kafka and Solace</strong>, and monitor systems end-to-end with <strong>Datadog</strong>.</p>
             <p>Currently designing integration architectures for European clients from <strong>Paris, France</strong>. Passionate about clean, scalable, and observable integration systems.</p>
             <p>B.Tech from <strong>D Y Patil RAIT, Mumbai</strong>.</p>
           </div>

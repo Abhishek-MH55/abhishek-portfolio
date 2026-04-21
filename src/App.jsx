@@ -32,8 +32,8 @@ const BLOGS = [
 ];
 
 const LANGUAGES = [
-  { lang:"English", level:"Fluent", pct:95 },
-  { lang:"French",  level:"Conversational", pct:65 },
+  { lang:"English", level:"Fluent", pct:100 },
+  { lang:"French",  level:"Basic", pct:40 },
   { lang:"Hindi",   level:"Native", pct:100 },
   { lang:"Marathi", level:"Native", pct:100 },
 ];

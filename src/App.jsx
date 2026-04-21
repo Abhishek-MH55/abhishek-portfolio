@@ -385,12 +385,12 @@ export default function Portfolio() {
         <div className="hbadge">Integration Specialist · IBM &amp; AWS Certified</div>
         <h1 className="hname">Abhishek<br /><em>Mhatre</em></h1>
         <p className="htitle">
-          <strong>Enterprise Integration Engineer</strong> with 8+ years at TCS —
+          <strong>Enterprise Integration Engineer</strong> with 8+ years at Tata Consultancy Services —
           bridging systems through IBM middleware, webMethods, OpenAPI, and cloud architecture
           across manufacturing &amp; utility sectors.
         </p>
         <div className="hchips">
-          {["IBM Certified","AWS Solutions Architect","Azure","webMethods 10.x","OpenAPI","Kafka · Solace","Datadog","8 yrs 9 mos @ TCS"].map(c=>(
+          {["IBM Certified","AWS Solutions Architect","Azure","webMethods 10.x","DevOps","Kafka · Solace","Datadog","Docker","API Build and Management","Kuberneteses"].map(c=>(
             <span key={c} className="chip">{c}</span>
           ))}
         </div>
@@ -407,7 +407,7 @@ export default function Portfolio() {
       {/* Experience */}
       <section id="experience">
         <div className="slabel" data-reveal>Career</div>
-        <h2 className="stitle" data-reveal data-d="1">8+ Years at <em>TCS</em></h2>
+        <h2 className="stitle" data-reveal data-d="1">8+ Years at <em>Integration Domain</em></h2>
         <div className="explist">
           {EXPERIENCE.map((e, i) => (
             <div key={e.id} className="exprow" data-reveal data-d={String((i%3)+1)}>
@@ -438,7 +438,7 @@ export default function Portfolio() {
           </div>
           <div className="aright" data-reveal data-d="2">
             <div className="astats">
-              {[{n:"8+",l:"Years at TCS"},{n:"IBM",l:"Middleware Certified"},{n:"AWS",l:"Solutions Architect"},{n:"2",l:"Continents Worked"}].map(s=>(
+              {[{n:"8+",l:"Years experience in Integration Domain"},{n:"IBM",l:"Middleware Certified"},{n:"AWS",l:"Solutions Architect"},{n:"6",l:"IBM webMethods Certifications"}].map(s=>(
                 <div key={s.l} className="stat" onMouseEnter={on} onMouseLeave={off}>
                   <div className="statn">{s.n}</div>
                   <div className="statl">{s.l}</div>

@@ -390,7 +390,7 @@ export default function Portfolio() {
           across manufacturing &amp; utility sectors.
         </p>
         <div className="hchips">
-          {["IBM Certified","AWS Solutions Architect","Azure","webMethods 10.x","DevOps","Kafka · Solace","Datadog","Docker","API Design and Management","Kuberneteses"].map(c=>(
+          {["IBM Certified","AWS Solutions Architect","Azure","webMethods 10.x","Splunk","DevOps","Kafka · Solace","Datadog","Docker","API Design and Management","Kuberneteses"].map(c=>(
             <span key={c} className="chip">{c}</span>
           ))}
         </div>

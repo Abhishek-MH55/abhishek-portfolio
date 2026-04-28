@@ -197,7 +197,7 @@ export default function Portfolio() {
     aS:"rgba(181,160,126,0.08)",aG:"rgba(181,160,126,0.15)",
     tg:"rgba(181,160,126,0.08)",tT:"#b5a07e",nB:"rgba(8,8,8,0.9)",pB:"rgba(255,255,255,0.06)",
   } : {
-    bg:"#f4f1ec",su:"#ffffff",sA:"#ede9e2",bo:"rgba(0,0,0,0.07)",
+    bg:"#f4f1ec",su:"#ffffff",sA:"#171209",bo:"rgba(0,0,0,0.07)",
     tx:"#18160f",mu:"rgba(24,22,15,0.42)",ac:"#7a5f38",
     aS:"rgba(122,95,56,0.08)",aG:"rgba(122,95,56,0.14)",
     tg:"rgba(122,95,56,0.08)",tT:"#7a5f38",nB:"rgba(244,241,236,0.92)",pB:"rgba(0,0,0,0.06)",
